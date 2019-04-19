@@ -1,0 +1,16 @@
+This is the summary regarding on the meeting we had from yesterday with Zhiying.
+
+Our weekly meet time changed from 2pm to 2:30pm please make sure you changed it on your calendar. Note: our lunch meeting schedule did not change, 12pm at my cube EH 334.
+
+three tasks was assigned from Zhiying:
+Collect all the webpage link
+pseudo code from Map, and Reduce(key, value)
+partition jobs and pseudo code
+
+As we brief talk from yesterday silver will finish the data collection.
+Can you form the data as (source, target,target,target,target) or other form you like no restri. The function that we expect is type a random URL it can search for it. After the execution for your running please let me know the average execution length(seconds)
+
+Pseudo code for pseudo code is the next steps. from my experience after finish the partition map will be easier to write pseudo code for map and reduce. silver you can try your best to write some if you have free time focus on your data collection is more important! 
+
+Yuxin you need to finish your pseudo code and show me at 12. Consider that is your ddl for you assignment, 1 hours late is acceptable.  If you have trouble to understand the reverse index model highly recommend you to read two papers mapreduce: simplified data processing on large clusters and comparing distributed indexing: to mapreduce or not. You can try for youtube it may help you a little bit to understand what is going on for our situation.
+ 

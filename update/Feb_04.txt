@@ -1,0 +1,6 @@
+1. Read comparing distributed indexing:To mapreduce or not. Trying to understand the algorithm
+
+2. Aiming to finish the code part to shuffle before next Monday.
+	schedule: Monday 3:30-7pm, Tuesday 5pm-9pm, Wed 1-3:30pm, Thursday 5-9pm
+
+3. for future what you have done for this week write a small paragraph below to keep track your work

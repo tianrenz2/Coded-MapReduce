@@ -1,0 +1,8 @@
+Regular meeting time does not change. see you guys Next Monday
+
+For silver please consider two questions for binary files:
+
+1. Given 2 txt files xor them even with different file sizes such a+b=c in binary
+2. given file a and file c xor them get file b where file a and file b are different size 
+
+The new pseudo-code will be updated to the file soon.

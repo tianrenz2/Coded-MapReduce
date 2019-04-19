@@ -1,0 +1,1 @@
+http://etech.uci.edu/:['www.classroom.uci.edu\n', 'classrooms.uci.edu\n', 'www.classrooms.uci.edu\n', 'eee.uci.edu\n', 'www.eee.uci.edu\n', 'scout.eee.uci.edu\n']

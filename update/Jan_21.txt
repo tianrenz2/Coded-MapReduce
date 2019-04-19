@@ -1,0 +1,17 @@
+The paper below is the paper we should review get understand how the model works for the large scale distributed deep network.
+Meanwhile read tensorflow paper to get the idea how they implemented from the work. At this point 3 things need to think
+
+how the SGD and L-BFGS model works.
+think a question how we can apply the original coded scheme or naive scheme to the Downpour SGD and Sandblaster L-BFGS
+read tensor flow paper to find the relation between SGD/L-BFGS with tensor flow(best write a quick summary for self understanding
+
+For reverse indexing: two homeworks due next Monday(Jan 28)
+what is Map, reduce function and write pseudocode based on your function. and what is your key and value
+what do we send in the shuffle based on the code from naive scheme(nrgnmr.py). The theory for naive scheme is we will create many files named as form of a_b_c_d.txt where the file stored at location a and b, the file is sending to location d. The range for a,b,d is same as the amount of users, c is select between 1 or 2. you guys are welcome to try and play the code. to see how it works.
+
+for the resource for reverse indexing: I can provide several links quick searched by google. feel free to search by your own.
+http://timepasstechies.com/map-reduce-inverted-index-sample/
+https://acadgild.com/blog/building-inverted-index-mapreduce
+https://stackoverflow.com/questions/47223444/inverted-index-with-mapreduce
+
+see you guys at 12 in my cube next Monday(Jan 28). we can walk to eat at some nearby cafeteria and discuss the work you have done from past week
